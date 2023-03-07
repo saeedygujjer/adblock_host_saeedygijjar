@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         amazon_ad Adblock Script by Saeed
-// @namespace    *
+// @namespace    http://google.com/
 // @version      1.1
 // @description  adblocker
 // @author       Saeed Akbar
