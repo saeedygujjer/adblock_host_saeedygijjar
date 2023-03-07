@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         kdkskd_Adblock Script by Saeed
-// @namespace    http://lkubuntu.wordpress.com/
-// @version      1.1
-// @description  adblocker
+// @name         kdkskd_Adblock
+// @version      748282
+// @description  adblocker dhjsjs
 // @author       Saeed Akbar
 // @grant       GM_getValue
 // @run-at      document-start
 // @match       * 
 // @include     *
+// @grant          none
 
 (function() {
     'use strict';
