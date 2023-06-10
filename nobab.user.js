@@ -18,6 +18,7 @@
 // @grant       GM_registerMenuCommand
 // @match       * 
 // @include     *
+// ==UserScript==
 (function() {
     'use strict';
     const signatures = [
